@@ -1,6 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=Yeri's%20GitHub&fontSize=90)
 
+<h2 align="center">
+   
+**Hello! My name is LimYeri.
+I am aspiring to be an AI developer who turns possibilities into reality.**
+</h2>
+
 <h3 align="center">
+   <br/><br/>
 📚 EXPERIENCE 📚
 </h3>
 
