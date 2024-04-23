@@ -9,15 +9,6 @@ I am aspiring to be an AI developer who turns possibilities into reality.**
 
 <h3 align="center">
    <br/><br/>
-📧 Contact 📧
-</h3>
-<p align="center">
-   <a href="mailto:yeari0122@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeari0122@gmail.com"/></a>
-   <a href="mailto:yeari0122@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:yeari0122@naver.com"/></a>
-</p>
-
-<h3 align="center">
-   <br/><br/>
 📚 EXPERIENCE 📚
 </h3>
 
@@ -63,6 +54,16 @@ I am aspiring to be an AI developer who turns possibilities into reality.**
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimYeri&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
   </a>
 </p>
+
+<h3 align="center">
+   <br/><br/>
+📧 Contact 📧
+</h3>
+<p align="center">
+   <a href="mailto:yeari0122@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeari0122@gmail.com"/></a>
+   <a href="mailto:yeari0122@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:yeari0122@naver.com"/></a>
+</p>
+
 
 <p align="center">
    <br/><br/>
