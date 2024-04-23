@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=Yeri's%20GitHub&fontSize=90)
 
-#### EXPERIENCE
+## 💻 EXPERIENCE
 - `2024-01 ~ 2024-04` &nbsp; **goorm Natural Language Processing Specialist Training Course 17th** &nbsp; `ML / DL / NLP`
 - `      2024-01      ` &nbsp; **HYUNDAI H-Mobility Class Advanced Course** &nbsp; `Self-driving Track / Selected as an Outstanding Learner`
 - `2023-07 ~ 2023-09` &nbsp; **HYUNDAI H-Mobility Class** &nbsp; `Self-driving Track`
