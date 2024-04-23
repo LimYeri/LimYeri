@@ -6,6 +6,11 @@
 
 <p align="center">
    
+test
+</p>
+
+<p align="center">
+   
 - `2024-01 ~ 2024-04` &nbsp; **goorm Natural Language Processing Specialist Training Course 17th** &nbsp; `ML / DL / NLP`
 - `      2024-01      ` &nbsp; **HYUNDAI H-Mobility Class Advanced Course** &nbsp; `Self-driving Track / Selected as an Outstanding Learner`
 - `2023-07 ~ 2023-09` &nbsp; **HYUNDAI H-Mobility Class** &nbsp; `Self-driving Track`
