@@ -2,6 +2,9 @@
 
 <h3 align="center">
 💻 EXPERIENCE
+</h3>
+
+<p align="center">
    
 - `2024-01 ~ 2024-04` &nbsp; **goorm Natural Language Processing Specialist Training Course 17th** &nbsp; `ML / DL / NLP`
 - `      2024-01      ` &nbsp; **HYUNDAI H-Mobility Class Advanced Course** &nbsp; `Self-driving Track / Selected as an Outstanding Learner`
@@ -9,7 +12,7 @@
 - `2022-07 ~ 2022-10` &nbsp; **NEXON MSW Game Development and Release** &nbsp; `Team Leader`
 - `2022-01 ~ 2023-12` &nbsp; **Like Lion Univ 10th, 11th** &nbsp; `Club Vice President / backEnd`
 - `2021-07 ~ 2021-08` &nbsp; **codeit Coding camp 8th** &nbsp; `Full-Stack`
-</h3>
+</p>
 
 
 
