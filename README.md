@@ -8,6 +8,8 @@
 - `2022-07 ~ 2022-10` &nbsp; **NEXON MSW Game Development and Release** &nbsp; `Team Leader`
 - `2022-01 ~ 2023-12` &nbsp; **Like Lion Univ 10th, 11th** &nbsp; `Club Vice President / backEnd`
 - `2021-07 ~ 2021-08` &nbsp; **codeit Coding camp 8th** &nbsp; `Full-Stack`
+ <br/>
+</h3>
 
 <h3 align="center">
  Tech Stack
@@ -32,4 +34,4 @@
   <img src="https://img.shields.io/badge/Css3-1572B6?style=flat-square&logo=Css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScrpit-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><br/>
-    
+</h4>
