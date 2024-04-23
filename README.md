@@ -36,6 +36,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><br/>
 </h4>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimYeri&layout=compact)](https://github.com/LimYeri/github-readme-stats)
+
 <h3 align="center">
    <br/><br/>
 📧 Contact 📧
