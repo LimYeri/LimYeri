@@ -2,7 +2,8 @@
 
 <div align="center">
    
-**Hello! My name is LimYeri. <br>
+**Hello! <br>
+My name is LimYeri. <br>
 I am aspiring to be an AI developer who turns possibilities into reality.**
 </div>
 
