@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=Yeri's%20GitHub&fontSize=90)
 
-<p align="center">
+<div align="center">
    
 **Hello! My name is LimYeri. <br>
 I am aspiring to be an AI developer who turns possibilities into reality.**
-</p>
+</div>
 
 <h3 align="center">
    <br/><br/>
