@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=Yeri's%20GitHub&fontSize=90)
 
 <div align="center">
-
+</div>
 <h3 align="center">
    <br/><br/>
 📚 EXPERIENCE 📚
